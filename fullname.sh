@@ -5,9 +5,7 @@ declare -A fullnames
 fullnames[ichiro]='Ichiro Suzuki'
 fullnames[tomohiro]='Tomohiro TAIRA'
 fullnames[norito]='Norito UEHARA'
-
-
-
+fullnames[jiru]='Jiru MUGI'
 
 function get_name()
 {
